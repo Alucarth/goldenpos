@@ -1,0 +1,5 @@
+C:\Users\David Torrez\Documents\GoldemPOS\lib\kxml2-2.3.0.jar=4
+C:\Users\David Torrez\Documents\GoldemPOS\lib\microlog-logger-core-2.3.5.jar=2
+C:\Users\David Torrez\Documents\GoldemPOS\lib\microlog-logger-midp-2.3.5.jar=5
+C:\Users\David Torrez\Documents\GoldemPOS\lib\microlog-logger-midp-file-2.3.5.jar=3
+C:\Users\David Torrez\Documents\GoldemPOS\lib\netbeans_midp_components_basic.jar=1

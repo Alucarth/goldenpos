@@ -1,0 +1,8 @@
+MIDlet-Name: GoldenPOS
+MIDlet-Version: 2.0.1
+MIDlet-Vendor: IpxServer
+MIDlet-Jar-URL: GoldenPOS.jar
+MIDlet-Jar-Size: 3351675
+MIDlet-Description: A localized sample project
+MIDlet-Info-URL: http://localhost
+MIDlet-1: GoldenPOS,/icon.png,com.mobiwire.startup.StartApp
